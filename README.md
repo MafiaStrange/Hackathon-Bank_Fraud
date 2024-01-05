@@ -4,4 +4,4 @@ The problem statement was to find whether a given transaction statement was frau
 
 We used two models for the same.. One using Logistic Regression and the other using XGBoost. Please find the datasets for the same by clicking the given link. Dataset 1 :
 [Customer_based.zip](https://github.com/MafiaStrange/Hackathon-Bank_Fraud/files/13842109/Customer_based.zip)
-Dataset 2 : https://drive.google.com/drive/my-drive
+Dataset 2 : https://drive.google.com/file/d/1d-zfsqCTFvHkiIZZXv37Xp8amK4aHkBB/view?usp=sharing
